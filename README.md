@@ -2,7 +2,7 @@
 A Python and bash-based helper tool for automating the addition and deletion of members from MIT Web Moira lists.
 
 ## Installation
-Simply clone this repo, and make sure you have `ssh`, `scp`, and Python set up on your command line!
+Simply clone this repo, and make sure you have `ssh`, `scp`, and Python set up on your command line!  These scripts were run and developed on Ubuntu 18.04, but should work on any operating system.
 
 ## Use
 The primary use of this repository is to automatically add or delete many members from a MIT Web Moira email list at once (for adding/deleting only a couple of members at a time, check out the [WebMoira Tool](https://groups.mit.edu/webmoira/).  
